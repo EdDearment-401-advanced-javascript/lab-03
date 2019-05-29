@@ -13,7 +13,10 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {},
+  "dependencies": {
+    "jest": "^24.8.0",
+    "lint": "^1.1.2"
+  },
   "devDependencies": {
     "eslint": "^5.16.0",
     "jest": "^23.6.0"
